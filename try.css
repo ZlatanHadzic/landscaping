@@ -129,12 +129,12 @@ nav ul li a:hover {
 .about-content h2{
 	font-size: 23px;
 	margin-bottom: 15px;
-	color: black;
+	color: white;
 }
 .about-content p{
 	font-size: 18px;
 	line-height: 1.5;
-	color: black;
+	color: white;
 	font-weight: bold;
 }
 .about-content .read-more{
