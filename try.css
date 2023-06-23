@@ -407,6 +407,7 @@ h1{
 }
 .container p{
 	margin-bottom: 10px;
+	color: white;
 }
 .input-row{
 	display: flex;
