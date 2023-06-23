@@ -60,6 +60,19 @@ nav ul li a {
 nav ul li a:hover {
   color: #ffcc00;
 }
+@media screen and (max-width: 768px) {
+  body {
+    background-size: contain;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-size: auto;
+  }
+}
+
+
 
 .heading{
 	
