@@ -448,7 +448,7 @@ tr td{
 	color: white;
 }
 @media (max-width: 1045px) {
-	.contact-box:{
+	.contact-box{
 	display: block;
 }
 }
